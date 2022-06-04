@@ -17,6 +17,7 @@ spec:
       creationTimestamp: null
       labels:
         app: nginx
+        version: "2"
     spec:
       containers:
       - image: nginx
